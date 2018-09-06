@@ -1,1 +1,1 @@
-this is my linked list from the odin project curriculum
+This is my linked list project from The odin project curriculum
